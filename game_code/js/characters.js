@@ -499,7 +499,7 @@ stfp.Player = ge.Class.create(ge.default_eventHandler, {
                 window.setTimeout(ge.bind(function () {
                     this._animationOffset = 0;
                     this._fireInProgress = undefined;
-                }, this), 80);
+                }, this), 50);
             }
         }, this);
 
