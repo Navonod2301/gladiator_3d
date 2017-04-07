@@ -761,3 +761,4 @@ stfp.Nazi = ge.Class.create(stfp.AnimatedSprite, stfp.MovingSprite, {
 randInt = function(min,max){
     return Math.ceil(min + (max-min)*Math.random());
 }
+stfp.Medkit = ge.Class.create
