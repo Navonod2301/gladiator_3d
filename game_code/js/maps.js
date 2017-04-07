@@ -25,6 +25,9 @@ stfp.scene = {
         // [X Pos, Y Pos]
         nazies : [
             [5, 6],
+            [8, 9],		      
+            [29, 4],		
+            [25, 12]
         ],
 
         map : [
